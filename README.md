@@ -8,6 +8,4 @@
 ### My name is Mohamad Mansouri <a href="https://mohamadmansouri.ir"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="25" height="25"></a>
 I'm junior in programming and computer science
 
-Currently I'm `Front-end` developer, and focus on `JavaScript` and `TypeScript`
-
 For more visit [mohamadmansouri.ir](https://mohamadmansouri.ir)

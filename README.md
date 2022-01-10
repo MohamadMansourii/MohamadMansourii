@@ -13,7 +13,7 @@ Currently focused on `Nodejs` and `TypeScript`, and my other Skills follow the b
 
 [![JS](https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=jss&logoColor=black)](https://github.com/MohamadMansourii)
 [![Vue JS](https://img.shields.io/badge/VueJs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/MohamadMansourii)
-[![Nuxt JS](https://img.shields.io/badge/NuxtJs-00DC82?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/MohamadMansourii)
+[![Nuxt JS](https://img.shields.io/badge/NuxtJs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/MohamadMansourii)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MohamadMansourii)
 [![Nodejs](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/MohamadMansourii)
 

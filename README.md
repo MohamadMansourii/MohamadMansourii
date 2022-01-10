@@ -7,15 +7,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadmansourii/) 
 [![Telegram: mohamadmnsouri](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white&link=https://www.telegram.me/mohamadmnsouri/)](https://www.telegram.me/mohamadmnsouri/)
 
-Currently focused on `Nodejs` and `TypeScript`, and my other Skills follow the below:
+Currently focused on `Nodejs` and `TypeScript`, and my other skills follow the below:
 
 ### Primary skills:
 
 [![JS](https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=jss&logoColor=black)](https://github.com/MohamadMansourii)
-[![Vue JS](https://img.shields.io/badge/VueJs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/MohamadMansourii)
-[![Nuxt JS](https://img.shields.io/badge/NuxtJs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/MohamadMansourii)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MohamadMansourii)
 [![Nodejs](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/MohamadMansourii)
+[![Vue JS](https://img.shields.io/badge/VueJs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/MohamadMansourii)
+[![Nuxt JS](https://img.shields.io/badge/NuxtJs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/MohamadMansourii)
 
 ### Secondary skills:
 

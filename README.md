@@ -9,19 +9,19 @@ Currently focused on `Nodejs` and `TypeScript`
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://nodejs.org/en/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
-[![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://nodejs.org/en/)
-[![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)](https://nodejs.org/en/)
+[![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
+[![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)](https://nuxtjs.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)](https://redis.io/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://kubernetes.io/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://linux.die.net/)
 
 ## Social
 

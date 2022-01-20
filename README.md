@@ -6,14 +6,12 @@ Currently focused on `Nodejs` and `TypeScript`
 ## Technology stack
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 [![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
 [![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=ffffff)](https://nuxtjs.org/)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)

@@ -1,7 +1,7 @@
 <h1>
   Hi, my name is Mohamad. I'm web developer <img src="https://user-images.githubusercontent.com/58604786/148827857-bc05244b-4381-46ee-a306-5a816bcfc899.gif" width="30" height="30"></h1>
 
-Currently focused on `Nodejs` and `TypeScript`
+Currently focused on `Nodejs` & `Nestjs` and `TypeScript`
 
 ## Technology stack
 

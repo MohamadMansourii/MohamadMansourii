@@ -1,13 +1,14 @@
-<h1>
-  Hi, my name is Mohamad. I'm web developer <img src="https://user-images.githubusercontent.com/58604786/148827857-bc05244b-4381-46ee-a306-5a816bcfc899.gif" width="30" height="30"></h1>
+<h1>Hi there</h1>
 
-Currently focused on `Nodejs` & `Nestjs` and `TypeScript`
+I'm web developer, work with Python & JavaScript
 
 ## Technology stack
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=ffdd54&labelColor=%3670A0&color=3670A0)](https://www.python.org/)
 
 
+[![Django](https://img.shields.io/badge/-Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.0/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)
 [![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)

@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 I'm currently working on: Backend.
+🔭 I'm currently working on: Backend development
 
 
 ## Social

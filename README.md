@@ -2,6 +2,7 @@
 
 🔭 I'm currently working on: Backend development
 
+## Skills
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)

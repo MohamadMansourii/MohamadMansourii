@@ -1,11 +1,13 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 I'm currently working on: Backend development
+🔭 I'm currently working on: Backend development and web application security
 
 ## Skills
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![php](https://img.shields.io/badge/-php-777bb4?style=flat-square&logo=php&logoColor=ffffff)
+![owasp](https://img.shields.io/badge/-owasp-000000?style=flat-square&logo=owasp&logoColor=ffffff)
 
 
 ## Social

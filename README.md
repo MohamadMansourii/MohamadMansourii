@@ -4,9 +4,9 @@
 
 ## My skills
 
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![php](https://img.shields.io/badge/-php-777bb4?style=flat-square&logo=php&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![owasp](https://img.shields.io/badge/-owasp-000000?style=flat-square&logo=owasp&logoColor=ffffff)
 

@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 I'm currently working on: web development and web application security
+🔭 I'm currently working on web development and web application security.
 
 ## My skills
 

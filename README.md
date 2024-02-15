@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 With two years of professional experience in Front-end development, I'm currently deeply involved in web application security. I take a serious approach to the matter and have a keen interest in Capture The Flag (CTF) challenges, dedicating time every day to studying and advancing my skills in this domain. Additionally, I am gaining experience in financial markets, cryptocurrency, and forex.
+🔭 Having two years of professional experience in front-end development, I am currently deeply involved in web application security. I take a serious approach to web application security and have a keen interest in Capture The Flag (CTF) challenges. I dedicate time each day to learning and growing my skills in this area. Additionally, I am gaining experience in financial markets, cryptocurrency, and forex.
 
 ## My skills
 

@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 I am currently deeply involved in web application security. I take a serious approach to web application security and have a keen interest in Capture The Flag (CTF) challenges. I dedicate time each day to learning and growing my skills in this area. Additionally, I am gaining experience in financial markets, cryptocurrency, and forex.
+🔭 I am a former Front-End Developer with four years of professional experience. Currently, I am dedicated to learning web application security. I have a strong interest in solving CTF (Capture The Flag) challenges. Moreover, my studies encompass blockchain technology, Web3 security, and smart contract penetration testing.
 
 ## Primary skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)

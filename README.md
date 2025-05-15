@@ -7,8 +7,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-484C89?style=flat-square&logo=php&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495e?style=flat-square&logo=vue.js&logoColor=42b883)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-020420?style=flat-square&logo=nuxt.js&logoColor=00DC82)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 
 [//]: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

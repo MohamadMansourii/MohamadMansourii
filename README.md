@@ -19,7 +19,9 @@
 ![owasp](https://img.shields.io/badge/-Owasp-000000?style=flat-square&logo=owasp&logoColor=ffffff)
 ![OSCP](https://img.shields.io/badge/OSCP-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 
 ## Social

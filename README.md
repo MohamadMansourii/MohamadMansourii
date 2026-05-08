@@ -5,6 +5,7 @@
 ## Primary skills
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=4584b6)
 ![PHP](https://img.shields.io/badge/-PHP-484C89?style=flat-square&logo=php&logoColor=fff)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
@@ -18,7 +19,8 @@
 ![owasp](https://img.shields.io/badge/-Owasp-000000?style=flat-square&logo=owasp&logoColor=ffffff)
 ![OSCP](https://img.shields.io/badge/OSCP-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+
 
 ## Social
 

@@ -1,6 +1,8 @@
 <h1>Hi there, I'm Mohamad</h1>
 
-🔭 I am a former Front-End Developer with four years of professional experience. Currently, I am dedicated to learning web application security. I have a strong interest in solving CTF (Capture The Flag) challenges. Moreover, my studies encompass blockchain technology, Web3 security, and smart contract penetration testing.
+🔭 With over a decade of hands‑on experience across programming, data center virtualization, and network engineering, I've developed a holistic view of IT infrastructure. Currently, I'm fully focused on networking and security — working on complex enterprise environments and continuously deepening my knowledge through daily study and real‑world practice. I thrive on challenges that require both technical depth and creative problem‑solving, and I'm always eager to explore emerging technologies that can enhance security and performance.
+
+
 
 ## Primary skills
 ![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=python&logoColor=4584b6)
